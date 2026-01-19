@@ -1,1 +1,1 @@
-{"version": "01", "host": "https://zoreu.github.io/remote_spartan", "enable_cache": true, "cache_time": 3600, "main": "app.py", "imports": ["helpers.py", "xtream.py", "dns.py", "proxy.py", "tmdb.py", "stream.py", "jsunpack.py", "subs.py"]}
+{"version": "02", "host": "https://zoreu.github.io/remote_spartan", "enable_cache": true, "cache_time": 3600, "main": "app.py", "imports": ["helpers.py", "xtream.py", "dns.py", "proxy.py", "tmdb.py", "stream.py", "jsunpack.py", "subs.py"]}
